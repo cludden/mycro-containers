@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "foo": {
+            "type": "string",
+            "enum": [
+                "bar",
+                "baz"
+            ]
+        }
+    },
+    "required": [
+        "foo"
+    ]
+}
