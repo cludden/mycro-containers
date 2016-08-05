@@ -1,5 +1,5 @@
 # mycro-containers
-[mycro]() hook for loading local modules onto the application instance.
+[mycro](https://github.com/cludden/mycro) hook for loading local modules onto the application instance.
 
 
 
@@ -33,7 +33,7 @@ npm test
 
 
 ## Contributing
-1. [Fork it](https://github.com/cludden/mycro/fork)
+1. [Fork it](https://github.com/cludden/mycro-containers/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
